@@ -1,4 +1,4 @@
-# Repository copied from Abhinav Sagar, sligthly modified by Sergi Ponsa Cobas , who has commented his code and modified to apply it in other openAI enviorments.
+# Repository copied from Abhinav Sagar, sligthly modified by Sergi Ponsà Cobas , who has commented his code and modified to apply it in other openAI enviorments.
 # Sergi conda enviorment to run the codes of this repository.
 Load environment
 
